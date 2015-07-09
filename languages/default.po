@@ -1,0 +1,1806 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Milkit\n"
+"POT-Creation-Date: 2015-03-17 17:54+0100\n"
+"PO-Revision-Date: 2015-03-17 17:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lollum <support@lollum.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Join the discussion"
+msgstr ""
+
+#: ../comments.php:63
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Comment"
+msgstr ""
+
+#: ../content-category.php:85 ../content-tag.php:85 ../content.php:82
+#: ../core/extras.php:127
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-category.php:92 ../content-page.php:25 ../content-tag.php:92
+#: ../content.php:89
+msgid "Pages:"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:60
+#: ../core/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:61
+#: ../core/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:62
+#: ../core/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:63
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:74
+#: ../core/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:75
+#: ../core/class-tgm-plugin-activation.php:177
+#: ../core/class-tgm-plugin-activation.php:1939
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../core/activate-milkit-framework.php:76
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:178
+#: ../core/class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:531
+#: ../core/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1287
+#: ../core/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1309
+#: ../core/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2053
+#: ../core/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2053
+#: ../core/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../core/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/extras.php:184
+#, php-format
+msgid "<cite itemprop=\"author\">%s</cite>"
+msgstr ""
+
+#: ../core/extras.php:198
+msgid "(Edit)"
+msgstr ""
+
+#: ../core/extras.php:202
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../core/extras.php:238 ../core/extras.php:239
+msgid "Name"
+msgstr ""
+
+#: ../core/extras.php:241 ../core/extras.php:242
+msgid "Email"
+msgstr ""
+
+#: ../core/extras.php:244
+msgid "Website"
+msgstr ""
+
+#: ../core/extras.php:279
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../core/mega-menu.php:19
+msgid "Make this category a mega menu"
+msgstr ""
+
+#: ../core/sidebars.php:16
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../core/sidebars.php:30
+msgid "Home Top Widgets"
+msgstr ""
+
+#: ../core/sidebars.php:32 ../core/sidebars.php:46 ../core/sidebars.php:74
+msgid "Use this sidebar only with the \"Milkit Post Modules\" widgets."
+msgstr ""
+
+#: ../core/sidebars.php:44
+msgid "Home Content Widgets"
+msgstr ""
+
+#: ../core/sidebars.php:58
+msgid "Home Sidebar Widgets"
+msgstr ""
+
+#: ../core/sidebars.php:60
+msgid "Use this sidebar with the \"Milkit Post Modules\" widgets."
+msgstr ""
+
+#: ../core/sidebars.php:72
+msgid "Home Bottom Widgets"
+msgstr ""
+
+#: ../core/sidebars.php:86
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../core/sidebars.php:100
+msgid "Tag Sidebar"
+msgstr ""
+
+#: ../core/sidebars.php:114
+msgid "Post Sidebar"
+msgstr ""
+
+#: ../core/sidebars.php:128
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../core/template-tags.php:24 ../core/theme-panel/admin-options.php:878
+msgid "Facebook"
+msgstr ""
+
+#: ../core/template-tags.php:27 ../core/theme-panel/admin-options.php:886
+msgid "Twitter"
+msgstr ""
+
+#: ../core/template-tags.php:30 ../core/theme-panel/admin-options.php:894
+msgid "Dribbble"
+msgstr ""
+
+#: ../core/template-tags.php:33
+msgid "Linkedin"
+msgstr ""
+
+#: ../core/template-tags.php:36 ../core/theme-panel/admin-options.php:910
+msgid "Flickr"
+msgstr ""
+
+#: ../core/template-tags.php:39 ../core/theme-panel/admin-options.php:918
+msgid "Tumblr"
+msgstr ""
+
+#: ../core/template-tags.php:42 ../core/theme-panel/admin-options.php:926
+msgid "Vimeo"
+msgstr ""
+
+#: ../core/template-tags.php:45 ../core/theme-panel/admin-options.php:934
+msgid "Youtube"
+msgstr ""
+
+#: ../core/template-tags.php:48 ../core/theme-panel/admin-options.php:942
+msgid "Instagram"
+msgstr ""
+
+#: ../core/template-tags.php:51 ../core/theme-panel/admin-options.php:950
+msgid "Google Plus"
+msgstr ""
+
+#: ../core/template-tags.php:54 ../core/theme-panel/admin-options.php:958
+msgid "Foursquare"
+msgstr ""
+
+#: ../core/template-tags.php:57 ../core/theme-panel/admin-options.php:966
+msgid "GitHub"
+msgstr ""
+
+#: ../core/template-tags.php:60 ../core/theme-panel/admin-options.php:974
+msgid "Pinterest"
+msgstr ""
+
+#: ../core/template-tags.php:63 ../core/theme-panel/admin-options.php:982
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../core/template-tags.php:66 ../core/theme-panel/admin-options.php:990
+msgid "DeviantART"
+msgstr ""
+
+#: ../core/template-tags.php:69 ../core/theme-panel/admin-options.php:998
+msgid "Behance"
+msgstr ""
+
+#: ../core/template-tags.php:72 ../core/theme-panel/admin-options.php:1006
+msgid "Delicious"
+msgstr ""
+
+#: ../core/template-tags.php:75 ../core/theme-panel/admin-options.php:1014
+msgid "SoundCloud"
+msgstr ""
+
+#: ../core/template-tags.php:78 ../core/theme-panel/admin-options.php:1022
+msgid "Spotify"
+msgstr ""
+
+#: ../core/template-tags.php:81 ../core/theme-panel/admin-options.php:1030
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../core/template-tags.php:84 ../core/theme-panel/admin-options.php:1038
+msgid "Reddit"
+msgstr ""
+
+#: ../core/template-tags.php:87 ../core/theme-panel/admin-options.php:1046
+msgid "Vine"
+msgstr ""
+
+#: ../core/template-tags.php:90 ../core/theme-panel/admin-options.php:1054
+msgid "Digg"
+msgstr ""
+
+#: ../core/template-tags.php:93 ../core/theme-panel/admin-options.php:1062
+msgid "VK"
+msgstr ""
+
+#: ../core/template-tags.php:96 ../core/theme-panel/admin-options.php:1070
+msgid "RSS"
+msgstr ""
+
+#: ../core/template-tags.php:216
+msgid "Posts navigation"
+msgstr ""
+
+#: ../core/template-tags.php:220
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../core/template-tags.php:224
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../core/template-tags.php:248 ../core/theme-panel/admin-options.php:700
+msgid "Post navigation"
+msgstr ""
+
+#: ../core/template-tags.php:251
+msgid "Previous story"
+msgstr ""
+
+#: ../core/template-tags.php:252
+msgid "Next story"
+msgstr ""
+
+#: ../core/template-tags.php:312
+#, php-format
+msgctxt "post date"
+msgid "Published on %s"
+msgstr ""
+
+#: ../core/template-tags.php:330
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: ../core/template-tags.php:356
+#, php-format
+msgid "Written by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../core/template-tags.php:418
+msgid "We recommend"
+msgstr ""
+
+#: ../core/template-tags.php:490
+msgid "Leave a comment"
+msgstr ""
+
+#: ../core/template-tags.php:490
+msgid "1 Comment"
+msgstr ""
+
+#: ../core/template-tags.php:490
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../core/template-tags.php:506
+msgid ", "
+msgstr ""
+
+#: ../core/template-tags.php:508
+#, php-format
+msgid "Tagged with: %1$s"
+msgstr ""
+
+#: ../core/template-tags.php:530 ../core/template-tags.php:648
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../core/template-tags.php:532 ../core/template-tags.php:650
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../core/template-tags.php:534 ../core/template-tags.php:652
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../core/template-tags.php:537
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../core/template-tags.php:539
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../core/template-tags.php:541
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../core/template-tags.php:543
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../core/template-tags.php:545
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../core/template-tags.php:547
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../core/template-tags.php:549
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../core/template-tags.php:551
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../core/template-tags.php:553
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../core/template-tags.php:556
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../core/template-tags.php:560
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../core/template-tags.php:562
+msgid "Archives"
+msgstr ""
+
+#: ../core/template-tags.php:610
+msgid "Home"
+msgstr ""
+
+#: ../core/template-tags.php:612
+msgid "Blog"
+msgstr ""
+
+#: ../core/template-tags.php:646
+#, php-format
+msgid "Posts by %1$s"
+msgstr ""
+
+#: ../core/template-tags.php:682
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: ../core/template-tags.php:685
+#, php-format
+msgid "(Page %s)"
+msgstr ""
+
+#: ../core/theme-panel/admin-functions.php:43
+#: ../core/theme-panel/admin-markup.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:18
+msgid "Options updated"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:21
+msgid "Options resetted"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:41
+msgid "Save All Changes"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:46
+msgid "Reset Options"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:46
+msgid "Click OK to reset. Any settings will be lost!"
+msgstr ""
+
+#: ../core/theme-panel/admin-markup.php:50
+msgid "Please enable Javascript to use this panel"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:30
+msgid "General settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:36
+msgid "Custom logo"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:37
+msgid "Upload a custom logo for the website."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:60
+msgid "Custom logo retina"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:61
+msgid "Upload a double-sized logo for retina displays."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:84
+msgid "Custom favicon"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:85
+msgid "Upload a custom favicon for the website (16x16px or 32x32px PNG/GIF)."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:92
+msgid "Enable responsive"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:93
+msgid "Check this to enable the responsive layout."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:100
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:101
+msgid "Check this to show the breadcrumbs."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:108
+msgid "Enable post views"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:109
+msgid "Check this to enable the count of the views."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:117
+msgid "Header settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:123
+msgid "Header layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:124
+msgid "Select the layout of the header area."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:135
+msgid "Enable sticky header"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:136
+msgid "Check this to enable the sticky header feature."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:143
+msgid "Site info"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:144
+msgid "You can write a little description of your website here."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:151
+msgid "Display search in the site's header"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:152
+msgid "Check this to display the search field in the site's header."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:159
+#: ../core/theme-panel/admin-options.php:182
+msgid "Display social accounts"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:160
+msgid "Check this to display the social accounts in the site's header."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:168
+msgid "Footer settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:174
+msgid "Footer text"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:175
+msgid "You can write the copyright text here."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:183
+msgid "Check this to display the social accounts in the footer area."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:196
+msgid "Social icons label"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:197
+msgid "\"Follow us\", etc."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:210
+msgid "Blog settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:217
+msgid ""
+"Here you can select the options of the blog page, the archive page, the "
+"author page and the search results page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:222
+msgid "Blog layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:223
+msgid "Select the layout of the blog page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:235
+#: ../core/theme-panel/admin-options.php:416
+#: ../core/theme-panel/admin-options.php:532
+msgid "Post columns"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:236
+#: ../core/theme-panel/admin-options.php:417
+#: ../core/theme-panel/admin-options.php:533
+msgid "Select the number of columns per row."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:250
+#: ../core/theme-panel/admin-options.php:443
+#: ../core/theme-panel/admin-options.php:559
+msgid "Post thumbnail"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:251
+#: ../core/theme-panel/admin-options.php:444
+#: ../core/theme-panel/admin-options.php:560
+msgid "Check this to display the post thumbnail."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:258
+#: ../core/theme-panel/admin-options.php:451
+#: ../core/theme-panel/admin-options.php:567
+#: ../core/theme-panel/admin-options.php:660
+msgid "Post excerpt"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:259
+msgid ""
+"Check this to display the post excerpt. If you uncheck this option the "
+"regular content is shown and you will need to insert the read more tag to "
+"split the content."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:266
+#: ../core/theme-panel/admin-options.php:464
+#: ../core/theme-panel/admin-options.php:580
+msgid "Post category icon"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:267
+#: ../core/theme-panel/admin-options.php:465
+#: ../core/theme-panel/admin-options.php:581
+msgid "Check this to display the category icon."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:274
+#: ../core/theme-panel/admin-options.php:472
+#: ../core/theme-panel/admin-options.php:588
+#: ../core/theme-panel/admin-options.php:668
+msgid "Post author"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:275
+#: ../core/theme-panel/admin-options.php:473
+#: ../core/theme-panel/admin-options.php:589
+#: ../core/theme-panel/admin-options.php:669
+msgid "Check this to display the name of the author."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:282
+#: ../core/theme-panel/admin-options.php:480
+#: ../core/theme-panel/admin-options.php:596
+#: ../core/theme-panel/admin-options.php:676
+msgid "Post date"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:283
+#: ../core/theme-panel/admin-options.php:481
+#: ../core/theme-panel/admin-options.php:597
+#: ../core/theme-panel/admin-options.php:677
+msgid "Check this to display the date of the post."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:290
+#: ../core/theme-panel/admin-options.php:488
+#: ../core/theme-panel/admin-options.php:604
+#: ../core/theme-panel/admin-options.php:684
+msgid "Post comment icon"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:291
+#: ../core/theme-panel/admin-options.php:489
+#: ../core/theme-panel/admin-options.php:605
+#: ../core/theme-panel/admin-options.php:685
+msgid "Check this to display the count of the comments."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:298
+#: ../core/theme-panel/admin-options.php:496
+#: ../core/theme-panel/admin-options.php:612
+#: ../core/theme-panel/admin-options.php:692
+msgid "Post views icon"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:299
+#: ../core/theme-panel/admin-options.php:497
+#: ../core/theme-panel/admin-options.php:613
+#: ../core/theme-panel/admin-options.php:693
+msgid ""
+"Check this to display the count of the views (you also need to enable the "
+"counter in \"General Settings\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:306
+#: ../core/theme-panel/admin-options.php:504
+#: ../core/theme-panel/admin-options.php:620
+msgid "Post review icon"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:307
+#: ../core/theme-panel/admin-options.php:505
+#: ../core/theme-panel/admin-options.php:621
+msgid "If the post is a review, you can display the score with this option."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:315
+msgid "Home settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:321
+msgid "Home layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:322
+msgid ""
+"Select the layout of the home page (C = page content, W= widget area). "
+"Please note that you need to select a page in \"Settings > Reading > Front "
+"Page\" to enable this option."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:340
+msgid "Use widgets in content area"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:341
+msgid ""
+"Checking this option you will have a new widget area (\"Home Content Widgets"
+"\") and it will replace the default content area (the text inserted in the "
+"WP editor = C) of the home page. In this way you will able to create an home "
+"page using only widgets."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:348
+msgid "Show slider in home"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:349
+msgid ""
+"Check this to display a slider in the home page (you need to check the \"Use "
+"for slider in homepage?\" option in some posts."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:357
+msgid "Page settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:363
+msgid "Page layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:364
+msgid "Select the layout of the page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:376
+#: ../core/theme-panel/admin-options.php:431
+#: ../core/theme-panel/admin-options.php:547
+#: ../core/theme-panel/admin-options.php:648
+msgid "Sidebar"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:377
+#: ../core/theme-panel/admin-options.php:432
+#: ../core/theme-panel/admin-options.php:548
+#: ../core/theme-panel/admin-options.php:649
+msgid "Select the sidebar visible in this page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:388
+msgid "Disable comments"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:389
+msgid "Check this to disable the comment section on all pages."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:397
+msgid "Category settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:403
+msgid "Category layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:404
+msgid "Select the layout of the category page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:452
+#: ../core/theme-panel/admin-options.php:568
+msgid "With this option you can control the content of the post."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:513
+msgid "Tag settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:519
+msgid "Tags layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:520
+msgid "Select the layout of the tag page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:629
+msgid "Post settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:635
+msgid "Post layout"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:636
+msgid "Select the layout of the post page."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:661
+msgid "Check this to display the excerpt of the article after the title."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:701
+msgid "Check this to display the post navigation (previous and next article)."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:708
+msgid "Author bio"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:709
+msgid "Check this to display the author bio."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:717
+msgid "Related posts options"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:722
+msgid "Related posts"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:723
+msgid "Check this to display the related posts."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:736
+msgid "Same category"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:737
+msgid "Check this to filter the related posts by category."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:744
+msgid "Same tags"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:745
+msgid "Check this to filter the related posts by tags."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:758
+msgid "Post sharer options"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:763
+msgid "Display social sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:764
+msgid "Check this to display the social sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:777
+msgid "Facebook sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:778
+msgid "Check this to enable the Facebook sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:785
+msgid "Twitter sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:786
+msgid "Check this to enable the Twitter sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:793
+msgid "Google Plus sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:794
+msgid "Check this to enable the Google Plus sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:801
+msgid "LinkedIn sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:802
+msgid "Check this to enable the LinkedIn sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:809
+msgid "Pinterest sharer"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:810
+msgid "Check this to enable the Pinterest sharer."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:823
+msgid "Font and color settings"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:829
+msgid "Site font"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:830
+msgid "Select the font family."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:839
+msgid "First accent color"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:840
+msgid "Select the first accent color of the theme."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:847
+msgid "Second accent color"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:848
+msgid "Select the first second color of the theme."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:855
+msgid "Link color"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:856
+msgid "Select the color of the links."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:864
+msgid "Social accounts"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:870
+msgid "Open social links in a new window/tab"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:871
+msgid "Check this to open social links in a new window/tab."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:879
+msgid "Type the URL of your Facebook account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:887
+msgid "Type the URL of your Twitter account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:895
+msgid "Type the URL of your Dribbble account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:902
+msgid "LinkedIn"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:903
+msgid "Type the URL of your LinkedIn account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:911
+msgid "Type the URL of your Flickr account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:919
+msgid "Type the URL of your Tumblr account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:927
+msgid "Type the URL of your Vimeo account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:935
+msgid "Type the URL of your Youtube account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:943
+msgid "Type the URL of your Instagram account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:951
+msgid "Type the URL of your Google Plus account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:959
+msgid "Type the URL of your Foursquare account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:967
+msgid "Type the URL of your GitHub account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:975
+msgid "Type the URL of your Pinterest account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:983
+msgid "Type the URL of your Stack Overflow account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:991
+msgid "Type the URL of your DeviantART account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:999
+msgid "Type the URL of your Behance account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1007
+msgid "Type the URL of your Delicious account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1015
+msgid "Type the URL of your SoundCloud account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1023
+msgid "Type the URL of your Spotify account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1031
+msgid "Type the URL of your StumbleUpon account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1039
+msgid "Type the URL of your Reddit account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1047
+msgid "Type the URL of your Vine account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1055
+msgid "Type the URL of your Digg account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1063
+msgid "Type the URL of your VK account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1071
+msgid "Type the URL of your RSS account (remember \"http://\")."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1079
+#: ../core/theme-panel/admin-options.php:1085
+msgid "Custom CSS"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1086
+msgid "Paste here your small css snippets."
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1094
+msgid "Google analytics"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1100
+msgid "Tracking code"
+msgstr ""
+
+#: ../core/theme-panel/admin-options.php:1101
+msgid "Paste the Google Analytics tracking code here."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:13
+msgid "Your site's Posts filtered by category."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:15
+msgid "Milkit Post Modules - By Category"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:387
+#: ../core/widgets/widget-module-comments.php:363
+#: ../core/widgets/widget-module-ids.php:347
+#: ../core/widgets/widget-module-random.php:350
+#: ../core/widgets/widget-module-recent.php:362
+#: ../core/widgets/widget-module-tag.php:388
+#: ../core/widgets/widget-module-views.php:364
+msgid "Title (optional):"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:392
+msgid "Category ID(s):"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:395
+msgid "Type a list of category IDs separated by commas (eg. 1,5,8)."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:399
+#: ../core/widgets/widget-module-tag.php:400
+msgid "Order:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:408
+#: ../core/widgets/widget-module-comments.php:368
+#: ../core/widgets/widget-module-random.php:355
+#: ../core/widgets/widget-module-recent.php:367
+#: ../core/widgets/widget-module-tag.php:409
+#: ../core/widgets/widget-module-views.php:369
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:413
+#: ../core/widgets/widget-module-comments.php:373
+#: ../core/widgets/widget-module-recent.php:372
+#: ../core/widgets/widget-module-tag.php:414
+#: ../core/widgets/widget-module-views.php:374
+msgid "Offset:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:416
+#: ../core/widgets/widget-module-comments.php:376
+#: ../core/widgets/widget-module-recent.php:375
+#: ../core/widgets/widget-module-tag.php:417
+#: ../core/widgets/widget-module-views.php:377
+msgid ""
+"The offset of this query. If you have a module that shows 4 posts before "
+"this one, you can start the query from the 5th post (using offset 4)."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:420
+#: ../core/widgets/widget-module-comments.php:380
+#: ../core/widgets/widget-module-random.php:360
+#: ../core/widgets/widget-module-recent.php:379
+#: ../core/widgets/widget-module-tag.php:421
+#: ../core/widgets/widget-module-views.php:381
+msgid "Exclude:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:423
+#: ../core/widgets/widget-module-comments.php:383
+#: ../core/widgets/widget-module-random.php:363
+#: ../core/widgets/widget-module-recent.php:382
+#: ../core/widgets/widget-module-tag.php:424
+#: ../core/widgets/widget-module-views.php:384
+msgid ""
+"Type a list of posts IDs separated by commas (eg. 1,5,8) or leave the field "
+"empty."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:427
+#: ../core/widgets/widget-module-comments.php:387
+#: ../core/widgets/widget-module-ids.php:359
+#: ../core/widgets/widget-module-random.php:367
+#: ../core/widgets/widget-module-recent.php:386
+#: ../core/widgets/widget-module-tag.php:428
+#: ../core/widgets/widget-module-views.php:388
+msgid "Columns:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:436
+#: ../core/widgets/widget-module-comments.php:396
+#: ../core/widgets/widget-module-ids.php:368
+#: ../core/widgets/widget-module-random.php:376
+#: ../core/widgets/widget-module-recent.php:395
+#: ../core/widgets/widget-module-tag.php:437
+#: ../core/widgets/widget-module-views.php:397
+msgid ""
+"This option works only if the widget is in the content area (ie. no in a "
+"sidebar). In a sidebar the layout becomes \"stacked\"."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:441
+#: ../core/widgets/widget-module-comments.php:401
+#: ../core/widgets/widget-module-ids.php:373
+#: ../core/widgets/widget-module-random.php:381
+#: ../core/widgets/widget-module-recent.php:400
+#: ../core/widgets/widget-module-tag.php:442
+#: ../core/widgets/widget-module-views.php:402
+msgid "Display thumbnail?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:446
+#: ../core/widgets/widget-module-comments.php:406
+#: ../core/widgets/widget-module-ids.php:378
+#: ../core/widgets/widget-module-random.php:386
+#: ../core/widgets/widget-module-recent.php:405
+#: ../core/widgets/widget-module-tag.php:447
+#: ../core/widgets/widget-module-views.php:407
+msgid "Display excerpt?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:451
+#: ../core/widgets/widget-module-comments.php:411
+#: ../core/widgets/widget-module-ids.php:383
+#: ../core/widgets/widget-module-random.php:391
+#: ../core/widgets/widget-module-recent.php:410
+#: ../core/widgets/widget-module-tag.php:452
+#: ../core/widgets/widget-module-views.php:412
+msgid "Display category icon?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:456
+#: ../core/widgets/widget-module-comments.php:416
+#: ../core/widgets/widget-module-ids.php:388
+#: ../core/widgets/widget-module-random.php:396
+#: ../core/widgets/widget-module-recent.php:415
+#: ../core/widgets/widget-module-tag.php:457
+#: ../core/widgets/widget-module-views.php:417
+msgid "Display author name?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:461
+#: ../core/widgets/widget-module-comments.php:421
+#: ../core/widgets/widget-module-ids.php:393
+#: ../core/widgets/widget-module-random.php:401
+#: ../core/widgets/widget-module-recent.php:420
+#: ../core/widgets/widget-module-tag.php:462
+#: ../core/widgets/widget-module-views.php:422
+msgid "Display post date?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:466
+#: ../core/widgets/widget-module-comments.php:426
+#: ../core/widgets/widget-module-ids.php:398
+#: ../core/widgets/widget-module-random.php:406
+#: ../core/widgets/widget-module-recent.php:425
+#: ../core/widgets/widget-module-tag.php:467
+#: ../core/widgets/widget-module-views.php:427
+msgid "Display comments icon?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:471
+#: ../core/widgets/widget-module-comments.php:431
+#: ../core/widgets/widget-module-ids.php:403
+#: ../core/widgets/widget-module-random.php:411
+#: ../core/widgets/widget-module-recent.php:430
+#: ../core/widgets/widget-module-tag.php:472
+#: ../core/widgets/widget-module-views.php:432
+msgid "Display views icon?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:476
+#: ../core/widgets/widget-module-comments.php:436
+#: ../core/widgets/widget-module-ids.php:408
+#: ../core/widgets/widget-module-random.php:416
+#: ../core/widgets/widget-module-recent.php:435
+#: ../core/widgets/widget-module-tag.php:477
+#: ../core/widgets/widget-module-views.php:437
+msgid "Display review?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:478
+#: ../core/widgets/widget-module-comments.php:438
+#: ../core/widgets/widget-module-ids.php:410
+#: ../core/widgets/widget-module-random.php:418
+#: ../core/widgets/widget-module-recent.php:437
+#: ../core/widgets/widget-module-tag.php:479
+#: ../core/widgets/widget-module-views.php:439
+msgid "If the post is a review, you can show the final score."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:481
+#: ../core/widgets/widget-module-comments.php:441
+#: ../core/widgets/widget-module-ids.php:413
+#: ../core/widgets/widget-module-random.php:421
+#: ../core/widgets/widget-module-recent.php:440
+#: ../core/widgets/widget-module-tag.php:482
+#: ../core/widgets/widget-module-views.php:442
+msgid "Alignment?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:487
+#: ../core/widgets/widget-module-comments.php:447
+#: ../core/widgets/widget-module-ids.php:419
+#: ../core/widgets/widget-module-random.php:427
+#: ../core/widgets/widget-module-recent.php:446
+#: ../core/widgets/widget-module-tag.php:488
+#: ../core/widgets/widget-module-views.php:448
+msgid ""
+"With \"horizontal\" only the thumbnail, the category, the title and the "
+"review are shown."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:492
+#: ../core/widgets/widget-module-comments.php:452
+#: ../core/widgets/widget-module-ids.php:424
+#: ../core/widgets/widget-module-random.php:432
+#: ../core/widgets/widget-module-recent.php:451
+#: ../core/widgets/widget-module-tag.php:493
+#: ../core/widgets/widget-module-views.php:453
+msgid ""
+"Show border after widget (this option has no effect if the module is "
+"highlighted)."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:497
+#: ../core/widgets/widget-module-comments.php:457
+#: ../core/widgets/widget-module-ids.php:429
+#: ../core/widgets/widget-module-random.php:437
+#: ../core/widgets/widget-module-recent.php:456
+#: ../core/widgets/widget-module-tag.php:498
+#: ../core/widgets/widget-module-views.php:458
+msgid "Highlight this section with a background color?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:502
+#: ../core/widgets/widget-module-comments.php:462
+#: ../core/widgets/widget-module-ids.php:434
+#: ../core/widgets/widget-module-random.php:442
+#: ../core/widgets/widget-module-recent.php:461
+#: ../core/widgets/widget-module-tag.php:503
+#: ../core/widgets/widget-module-views.php:463
+msgid "Display custom button?"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:504
+#: ../core/widgets/widget-module-comments.php:464
+#: ../core/widgets/widget-module-ids.php:436
+#: ../core/widgets/widget-module-random.php:444
+#: ../core/widgets/widget-module-recent.php:463
+#: ../core/widgets/widget-module-tag.php:505
+#: ../core/widgets/widget-module-views.php:465
+msgid ""
+"Display a custom button to redirect the user to your preferred page (the "
+"blog page for example)."
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:507
+#: ../core/widgets/widget-module-comments.php:467
+#: ../core/widgets/widget-module-ids.php:439
+#: ../core/widgets/widget-module-random.php:447
+#: ../core/widgets/widget-module-recent.php:466
+#: ../core/widgets/widget-module-tag.php:508
+#: ../core/widgets/widget-module-views.php:468
+msgid "Button label:"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:512
+#: ../core/widgets/widget-module-comments.php:472
+#: ../core/widgets/widget-module-ids.php:444
+#: ../core/widgets/widget-module-random.php:452
+#: ../core/widgets/widget-module-recent.php:471
+#: ../core/widgets/widget-module-tag.php:513
+#: ../core/widgets/widget-module-views.php:473
+msgid "Button URL (optional):"
+msgstr ""
+
+#: ../core/widgets/widget-module-category.php:515
+#: ../core/widgets/widget-module-comments.php:475
+#: ../core/widgets/widget-module-ids.php:447
+#: ../core/widgets/widget-module-random.php:455
+#: ../core/widgets/widget-module-recent.php:474
+#: ../core/widgets/widget-module-tag.php:516
+#: ../core/widgets/widget-module-views.php:476
+msgid ""
+"Type the URL of the page or leave the field empty to redirect the user to "
+"the blog page, which is the page that shows your most recent posts. Please "
+"note: you need a static front page in \"Settings > Reading\" to enable the "
+"button if you leave the field empty."
+msgstr ""
+
+#: ../core/widgets/widget-module-comments.php:13
+msgid "Your site's Posts ordered by comment count."
+msgstr ""
+
+#: ../core/widgets/widget-module-comments.php:15
+msgid "Milkit Post Modules - By Comments"
+msgstr ""
+
+#: ../core/widgets/widget-module-ids.php:13
+msgid "Your site's Posts filtered by IDs."
+msgstr ""
+
+#: ../core/widgets/widget-module-ids.php:15
+msgid "Milkit Post Modules - By IDs"
+msgstr ""
+
+#: ../core/widgets/widget-module-ids.php:352
+msgid "ID(s):"
+msgstr ""
+
+#: ../core/widgets/widget-module-ids.php:355
+msgid "Type a list of posts IDs separated by commas (eg. 1,5,8)."
+msgstr ""
+
+#: ../core/widgets/widget-module-random.php:13
+msgid "Your site's Posts in random order."
+msgstr ""
+
+#: ../core/widgets/widget-module-random.php:15
+msgid "Milkit Post Modules - Random"
+msgstr ""
+
+#: ../core/widgets/widget-module-recent.php:13
+msgid "Your site's most recent Posts."
+msgstr ""
+
+#: ../core/widgets/widget-module-recent.php:15
+msgid "Milkit Post Modules - By Date"
+msgstr ""
+
+#: ../core/widgets/widget-module-tag.php:13
+msgid "Your site's Posts filtered by tag."
+msgstr ""
+
+#: ../core/widgets/widget-module-tag.php:15
+msgid "Milkit Post Modules - By Tag"
+msgstr ""
+
+#: ../core/widgets/widget-module-tag.php:393
+msgid "Tag ID(s):"
+msgstr ""
+
+#: ../core/widgets/widget-module-tag.php:396
+msgid "Type a list of tag IDs separated by commas (eg. 1,5,8)."
+msgstr ""
+
+#: ../core/widgets/widget-module-views.php:13
+msgid "Your site's Posts ordered by views count."
+msgstr ""
+
+#: ../core/widgets/widget-module-views.php:15
+msgid "Milkit Post Modules - By Views"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:14
+msgid "Use this widget to display your social accounts."
+msgstr ""
+
+#: ../core/widgets/widget-social.php:17
+msgid "Custom social widget"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:207
+msgid "Title:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:212
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:217
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:222
+msgid "Dribbble URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:227
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:232
+msgid "Flickr URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:237
+msgid "Tumblr URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:242
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:247
+msgid "Youtube URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:252
+msgid "Instagram URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:257
+msgid "Google Plus URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:262
+msgid "Foursquare URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:267
+msgid "GitHub URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:272
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:277
+msgid "Stack Overflow URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:282
+msgid "DeviantART URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:287
+msgid "Behance URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:292
+msgid "Delicious URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:297
+msgid "SoundCloud URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:302
+msgid "Spotify URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:307
+msgid "StumbleUpon URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:312
+msgid "Reddit URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:317
+msgid "Vine URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:322
+msgid "Digg URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:327
+msgid "VK URL:"
+msgstr ""
+
+#: ../core/widgets/widget-social.php:332
+msgid "RSS URL:"
+msgstr ""
+
+#: ../functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:38
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:87
+msgid "Navigation"
+msgstr ""
+
+#: ../header.php:87
+msgid "Close"
+msgstr ""
+
+#: ../header.php:90
+msgid "Site navigation"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

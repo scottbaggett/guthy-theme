@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="milkit_opt_site_info" />
+		<key name="milkit_opt_footer_text" />
+		<key name="milkit_opt_footer_social_label" />
+	</admin-texts>
+</wpml-config>
