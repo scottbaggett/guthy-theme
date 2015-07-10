@@ -43,7 +43,7 @@ gulp.task('styles', function(){
       autoprefixer({browsers: ['last 1 version']})
   ];
 
-  gulp.src(['./**/*.scss'])
+  gulp.src(['style.scss', './styles/*.scss'])
     .pipe(plumber({
       errorHandler: function (error) {
         console.log(error.message);

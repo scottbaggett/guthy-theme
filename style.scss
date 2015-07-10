@@ -3004,7 +3004,15 @@ input.search-field {
   @extend .sb-3-cols;
 
   #secondary & {
-    @extend .sb-2-cols;
+
+
+    .sb-col {
+      @include stack();
+      @include mq($from: wide) {
+        @include col(1/2, $cycle: 2);
+        margin-bottom: 3%;
+      }
+    };
     margin-bottom: $base-padding;
   }
 }
@@ -3026,7 +3034,13 @@ input.search-field {
     top: 50%;
     left: 50%;
     color: black;
-    width: 80%;
+    width: 85%;
+    font-size: 100%;
+    line-height: 1.5;
+    @include mq($from: desktop) {
+      font-size: 90%;
+      line-height: 1.2;
+    }
   }
 
   .image {

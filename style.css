@@ -1,5 +1,5 @@
 /*
-Theme Name: GuthyRenker CUSTOM Milkit Theme
+Theme Name: Acne.com (Custom MilkIt)
 Theme URI: http://acne.com/
 Description: Theme for Acne.com
 Author: Scott Baggett <scott@klickclack.com>
@@ -276,7 +276,7 @@ a img {
   .sb-3-cols .sb-col:last-child, .related-topics-widget .sb-col:last-child {
     margin-right: auto; }
 
-@media (min-width: 46.25em) {
+@media (min-width: 61.875em) {
   .sb-3-cols .sb-col, .related-topics-widget .sb-col {
     float: left;
     clear: none;
@@ -289,17 +289,17 @@ a img {
     .sb-3-cols .sb-col:nth-of-type(3n + 1), .related-topics-widget .sb-col:nth-of-type(3n + 1) {
       clear: both; } }
 
-.sb-2-cols .sb-col, #secondary .related-topics-widget .sb-col {
+.sb-2-cols .sb-col {
   float: left;
   clear: none;
   width: 48.5%;
   margin-left: 0;
   margin-right: 3%;
   margin-bottom: 3%; }
-  .sb-2-cols .sb-col:nth-of-type(2n), #secondary .related-topics-widget .sb-col:nth-of-type(2n) {
+  .sb-2-cols .sb-col:nth-of-type(2n) {
     margin-right: 0;
     float: right; }
-  .sb-2-cols .sb-col:nth-of-type(2n + 1), #secondary .related-topics-widget .sb-col:nth-of-type(2n + 1) {
+  .sb-2-cols .sb-col:nth-of-type(2n + 1) {
     clear: both; }
 
 /*--------------------------------------------------------------
@@ -2795,6 +2795,30 @@ input.search-field {
  */
 #secondary .related-topics-widget {
   margin-bottom: 30px; }
+  #secondary .related-topics-widget .sb-col {
+    display: block;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; }
+    #secondary .related-topics-widget .sb-col:first-child {
+      margin-left: auto; }
+    #secondary .related-topics-widget .sb-col:last-child {
+      margin-right: auto; }
+    @media (min-width: 81.25em) {
+      #secondary .related-topics-widget .sb-col {
+        float: left;
+        clear: none;
+        width: 48.5%;
+        margin-left: 0;
+        margin-right: 3%;
+        margin-bottom: 3%; }
+        #secondary .related-topics-widget .sb-col:nth-of-type(2n) {
+          margin-right: 0;
+          float: right; }
+        #secondary .related-topics-widget .sb-col:nth-of-type(2n + 1) {
+          clear: both; } }
 
 .topic,
 .topic:visited {
@@ -2814,7 +2838,14 @@ input.search-field {
     top: 50%;
     left: 50%;
     color: black;
-    width: 80%; }
+    width: 85%;
+    font-size: 100%;
+    line-height: 1.5; }
+    @media (min-width: 61.875em) {
+      .topic .label,
+      .topic:visited .label {
+        font-size: 90%;
+        line-height: 1.2; } }
   .topic .image,
   .topic:visited .image {
     position: absolute;
