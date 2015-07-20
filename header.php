@@ -50,7 +50,7 @@ $milkit_check_responsive = ( get_option( 'milkit_opt_check_responsive' ) == 'fal
 				<h1 class="site-title semantic" itemprop="headline"><?php echo esc_html( get_bloginfo( 'name' ) ); ?></h1>
 				<?php else : ?>
 				<h3 class="site-title semantic" itemprop="headline"><?php echo esc_html( get_bloginfo( 'name' ) ); ?></h3>
-				<p class="site-description" itemprop="description"><?php echo esc_html( get_bloginfo( 'description' ) ); ?></p>
+
 				<?php endif; ?>
 
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" class="site-logo"><img id="desktop-logo" src="<?php echo esc_url( get_option( 'milkit_opt_logo' ) ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>" width="<?php echo esc_attr( get_option( 'milkit_opt_logo_w' ) ); ?>" height="<?php echo esc_attr( get_option( 'milkit_opt_logo_h' ) ); ?>">
@@ -59,6 +59,8 @@ $milkit_check_responsive = ( get_option( 'milkit_opt_check_responsive' ) == 'fal
 					<?php endif; ?>
 				</a>
 
+
+
 			<?php else: ?>
 
 				<?php if ( ( is_home() ) || ( is_front_page() && ( get_option( 'milkit_opt_use_widgets_home' ) == 'true' ) ) ) : ?>
@@ -66,6 +68,7 @@ $milkit_check_responsive = ( get_option( 'milkit_opt_check_responsive' ) == 'fal
 				<?php else : ?>
 				<h3 class="site-title" itemprop="headline"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php echo esc_html( get_bloginfo( 'name' ) ); ?></a></h3>
 				<?php endif; ?>
+				<p class="site-description" itemprop="description"><?php echo esc_html( get_bloginfo( 'description' ) ); ?></p>
 
 			<?php endif; ?>
 

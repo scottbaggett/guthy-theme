@@ -17,10 +17,11 @@ get_header(); ?>
 		<?php if ( have_posts() ) : ?>
 
 			<header class="page-header">
-				<?php
-					the_archive_title( '<h1 class="page-title">', '</h1>' );
-					the_archive_description( '<div class="taxonomy-description">', '</div>' );
-				?>
+				<h1 class='category-title'><?php single_cat_title(); ?></h1>
+		<div class="category-share">
+			<?php echo sharify_display_button_buttons(); ?>
+		</div>
+
 			</header><!-- .page-header -->
 
 			<div class="post-modules">
